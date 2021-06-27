@@ -7,7 +7,7 @@
 - waitForAsync()
 - whenStable()
 
-Скринкаст с подробным описанием тут - https://youtu.be/kHAqGpwPFlg
+Скринкаст с подробным описанием тут - https://youtu.be/_eYMqt61_IM
 
 По всем вопросам:
 
